@@ -2,7 +2,7 @@
 name = "volatile-mem"
 version = "0.1.0"
 authors = ["Mike Leany"]
-license = "MIT OR Apache-2.0"
+license = "Apache-2.0"
 description = "A library for managing volatile memory"
 repository = "https://github.com/mikeleany/volatile-mem"
 keywords = ["volatile", "memory"]
